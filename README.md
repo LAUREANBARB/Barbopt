@@ -40,5 +40,4 @@
 - UI is still a work in progress, but functionality is solid.  
 
 ---
-
 **Made with ❤️ by DVRKXN**  
