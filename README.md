@@ -41,4 +41,4 @@
 
 ---
 
-**Made with ❤️ by [Your Name / GitHub Handle]**  
+**Made with ❤️ by DVRKXN**  
