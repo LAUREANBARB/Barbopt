@@ -1,5 +1,4 @@
-# BarbOpt
-# Windows Optimization & Network Tools
+# BarbOpt Windows Optimization & Network Tools
 
 **Windows Optimization & Network Tools** is a lightweight, easy-to-use Windows utility that lets you tweak your system and network for maximum speed and responsiveness. Perfect for Windows 10 & 11 users who want a snappier PC without diving deep into complicated settings.
 
